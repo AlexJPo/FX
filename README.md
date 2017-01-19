@@ -1,1 +1,2 @@
 # FX
+JavaFX projects
